@@ -3,7 +3,7 @@
 5 lives. 2 players. win, lose, or draw until the remaining player has 0 remaining lives. Who will win? The AI (Aaron Isco) or human?
 
 ## Github Repository URL 
-Github Repository URL(https://github.com/octiz/brianonpythonrps)
+Github Repository URL (https://github.com/octiz/brianonpythonrps)
 
 ## MIT License
 
